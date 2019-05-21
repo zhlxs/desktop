@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\AndroidWork\\desktop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "G:\\AndroidWork\\desktop\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                }
+            ]
+        }
+    ]
+}

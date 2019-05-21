@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:10:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.GET_TASKS
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:13:22-65
+application
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:15:5-61:19
+	android:label
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:20:9-41
+	android:hardwareAccelerated
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:18:9-43
+	android:persistent
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:17:9-34
+	android:icon
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:16:9-35
+service#com.dnake.desktop.SysService
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:21:9-22:19
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:21:18-61
+receiver#com.dnake.desktop.SysReceiver
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:24:9-31:20
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:24:19-63
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:25:13-27:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:26:17-79
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:26:25-76
+intent-filter#action:name:com.dnake.broadcast
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:28:13-30:29
+action#com.dnake.broadcast
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:29:17-62
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:29:25-59
+activity#com.dnake.desktop.MainActivity
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:33:9-45:20
+	android:screenOrientation
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:36:13-50
+	android:launchMode
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:35:13-44
+	android:theme
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:37:13-71
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:34:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:38:13-44:29
+action#android.intent.action.MAIN
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.HOME
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:41:17-73
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:41:27-70
+category#android.intent.category.DEFAULT
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:42:27-73
+category#android.intent.category.LAUNCHER
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:43:27-74
+activity#com.dnake.desktop.AppsLabel
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:46:9-54:20
+	android:screenOrientation
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:49:13-50
+	android:launchMode
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:48:13-44
+	android:theme
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:50:13-60
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:47:13-55
+intent-filter#action:name:com.dnake.desktop.AppsLabel
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:51:13-53:29
+action#com.dnake.desktop.AppsLabel
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:52:17-70
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:52:25-67
+activity#com.dnake.desktop.AppSelect
+ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:55:9-60:20
+	android:screenOrientation
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:58:13-50
+	android:launchMode
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:57:13-44
+	android:theme
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:59:13-60
+	android:name
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml:56:13-55
+uses-sdk
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidWork\desktop\app\src\main\AndroidManifest.xml

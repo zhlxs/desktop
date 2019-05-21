@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_bkg"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_bkg">
+
+    <com.dnake.widget.Button2
+        android:id="@+id/main_face"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="4dp"
+        android:background="@drawable/main_btn_face"
+        android:gravity="bottom|center"
+        android:text="人脸识别"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:visibility="gone" />
+
+    <com.dnake.widget.Button2
+        android:id="@+id/main_apps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/main_btn_apps"
+        android:gravity="bottom|center"
+        android:textColor="#808080"
+        android:textSize="18sp" />
+
+</RelativeLayout>

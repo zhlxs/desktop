@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\AndroidWork\\desktop\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "G:\\AndroidWork\\desktop\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\AndroidWork\\desktop\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "G:\\AndroidWork\\desktop\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "44",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    }
+                }
+            ]
+        }
+    ]
+}

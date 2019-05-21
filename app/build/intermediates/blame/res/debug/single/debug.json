@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "G:\\AndroidWork\\desktop\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "G:\\AndroidWork\\desktop\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\desktop\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_bkg.png.flat",
+        "source": "G:\\AndroidWork\\desktop\\app\\src\\main\\res\\drawable\\main_bkg.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\desktop\\app\\build\\intermediates\\res\\merged\\debug\\layout_apps_text.xml.flat",
+        "source": "G:\\AndroidWork\\desktop\\app\\src\\main\\res\\layout\\apps_text.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\desktop\\app\\build\\intermediates\\res\\merged\\debug\\layout_apps.xml.flat",
+        "source": "G:\\AndroidWork\\desktop\\app\\src\\main\\res\\layout\\apps.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\desktop\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_face.png.flat",
+        "source": "G:\\AndroidWork\\desktop\\app\\src\\main\\res\\drawable\\main_btn_face.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\desktop\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "G:\\AndroidWork\\desktop\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\desktop\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_apps.png.flat",
+        "source": "G:\\AndroidWork\\desktop\\app\\src\\main\\res\\drawable\\main_btn_apps.png"
+    }
+]
